@@ -2,7 +2,7 @@
 
 # Personal Portfolio
 
-My personal portfolio which features the most recent projects I worked on as well as my resume and technical skills. \
+My personal portfolio which features the most recent projects I worked on as well as my resume and technical skills.
 
 
 ## Sections 📚
